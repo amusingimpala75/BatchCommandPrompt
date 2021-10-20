@@ -1,6 +1,6 @@
 @ECHO off
-ECHO Microsoft Windows [version]
-ECHO (c) Microsoft Corporation. All rights reserved.
+ECHO Microsoft Windows
+ECHO Command Prompt v1.0 by AmusingImpala
 ECHO.
 :lblTOP
 SET /P command=%CD%^>
